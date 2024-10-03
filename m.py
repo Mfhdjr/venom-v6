@@ -1,4 +1,4 @@
-#script by @venomXcrazy
+#script by @mujjukhan24
 
 import telebot
 import subprocess
@@ -357,8 +357,8 @@ def show_help(message):
 🤖 To See Admin Commands:
 💥 /admincmd : Shows All Admin Commands.
 
-Buy From :- @venomXcrazy
-Official Channel :- https://t.me/V3NOM_CH3AT
+Buy From :- @mujjukhan24
+Official Channel :- https://t.me/kingamsgaming
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
